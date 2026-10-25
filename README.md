@@ -2,6 +2,8 @@
 
 An educational women's health symptom tracking and care navigation prototype. **Not a diagnostic tool.** The current app is a local demo with fictional sample data and educational safety rules.
 
+🌐 Live Demo: https://khoj-xi.vercel.app/
+
 ## Run locally
 
 1. Install Node.js 20+ and dependencies with `npm install`.
