@@ -1,0 +1,9 @@
+@media (max-width: 767px) {
+  .more-sheet {
+    box-sizing: border-box;
+    max-height: 90vh;
+    max-height: 90dvh;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
